@@ -1,0 +1,10 @@
+# Exclude test and scan_reports directories
+test/
+scan_reports/
+
+# Exclude text files
+*.txt
+
+# Exclude virtual environment and OS files
+.venv/
+.DS_Store
